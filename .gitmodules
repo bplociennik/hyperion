@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/vThaian/hyperion-django
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vThaian/hyperion-frontend
